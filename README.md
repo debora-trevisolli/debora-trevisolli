@@ -1,7 +1,7 @@
 ## Olá. Eu sou Débora Trevisolli! 
 
 Profissional com formação em Gestão de Recursos Humanos e cursando Gestão da Tecnologia da Informação.
-Com Certificação Scrum Fundamentals Certified (SFC™) e Kanban Essentials with AI Certified (KEC™). , fortalecendo minha atuação em gestão de projetos e metodologias ágeis.
+Com Certificação Scrum Fundamentals Certified (SFC™), Kanban Essentials with AI Certified (KEC™) e Oracle Data Platform Certified Foundations Associate.
 Possuo experiência em validação de dados e elaboração de relatórios financeiros em instituições hospitalares, o que me proporcionou visão analítica, atenção aos detalhes e foco em resultados.
 Atualmente, venho aprofundando meus conhecimentos em PMO, metodologias ágeis (Scrum, Kanban) e práticas do PMI, além de desenvolver habilidades técnicas em Power BI, SQL, Python e Cloud Computing para integrar análise, processos e tecnologia.
 
