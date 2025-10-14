@@ -15,7 +15,7 @@ Atualmente, venho ampliando meus conhecimentos em PMO, metodologias ágeis (Scru
 <div style="display: inline_block"><br>
            <img align="center" alt="Debora-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+            
           
            </div>
   
