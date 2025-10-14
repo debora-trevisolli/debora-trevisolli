@@ -6,6 +6,7 @@ Conquistei certificações importantes que fortalecem minha atuação em gestão
 • Kanban Essentials with AI Certified (KEC™)
 • Oracle Data Platform Certified Foundations Associate (1Z0-1195-25)
 • Oracle Cloud Infrastructure Foundations Associate (1Z0-1085-25)
+. Scrum for Operations & DevOps Fundamentals Certified
 .
 Tenho experiência em validação de dados e elaboração de relatórios financeiros no setor hospitalar, onde desenvolvi atenção aos detalhes, raciocínio analítico e foco em resultados.
 
@@ -13,6 +14,9 @@ Atualmente, venho ampliando meus conhecimentos em PMO, metodologias ágeis (Scru
 
 <div style="display: inline_block"><br>
            <img align="center" alt="Debora-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+           
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          
            </div>
   
 ##
