@@ -17,7 +17,6 @@ Atualmente, venho ampliando meus conhecimentos em PMO, metodologias ágeis (Scru
            
             
           
-           </div>
   
 ##
 
