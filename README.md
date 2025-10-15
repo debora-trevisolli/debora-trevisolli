@@ -17,7 +17,23 @@ Atualmente, venho ampliando meus conhecimentos em PMO, metodologias ágeis (Scru
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="MicrosoftSQLServer" 
+    title="MicrosoftSQLServer"
+    width="30px" 
+    style="padding-right: 10px;" 
+src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+/>
 
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+/>
           
 <br/>
 <br/>        
