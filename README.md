@@ -1,10 +1,10 @@
 ## Olá. Eu sou Débora Trevisolli! 
 
-Profissional formada em Gestão de Recursos Humanos e atualmente cursando Gestão da Tecnologia da Informação.
+Profissional formada em **Gestão de Recursos Humanos** e atualmente cursando **Gestão da Tecnologia da Informação**.
 
-Tenho experiência em validação de dados e elaboração de relatórios financeiros no setor hospitalar, onde desenvolvi atenção aos detalhes, raciocínio analítico e foco em resultados.
+Tenho experiência em validação de dados e elaboração de relatórios financeiros em instituições de grande porte, onde desenvolvi atenção aos detalhes, raciocínio analítico e foco em resultados.
 
-Atualmente, venho ampliando meus conhecimentos em PMO, metodologias ágeis (Scrum e Kanban) e práticas do PMI, além de aprimorar habilidades técnicas em Power BI, SQL, Python e Cloud Computing.
+Atualmente, venho ampliando meus conhecimentos em **PMO**, **Metodologias Ágeis (Scrum e Kanban)** e práticas do **PMI**, além de aprimorar habilidades técnicas em **Power BI, SQL, Python e Cloud Computing**.
 
    ### 🤖 Linguagens e Tecnologias
 
@@ -37,11 +37,20 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 
 <img 
     align="left" 
-    alt="VSCode" 
-    title="VSCode"
+    alt="PyCharm" 
+    title="PyCharm"
     width="30px" 
     style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
    />
 
 <img 
@@ -89,11 +98,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-ori
 ##
 
 <div>
- 
   <a href="https://www.linkedin.com/in/debora-trevisolli-roncardi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
 
+<div>
 <a href="https://impossible-basilisk-274.notion.site/Portf-lio-Debora-Trevisolli-Roncardi-27979dfdf514807ea590c783eedbe83d?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
-  </div>
+</div>
 
 
 
