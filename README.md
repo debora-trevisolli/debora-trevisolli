@@ -102,7 +102,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-ori
 <div>
 
 <div>
-<a href="https://impossible-basilisk-274.notion.site/Portf-lio-Debora-Trevisolli-Roncardi-27979dfdf514807ea590c783eedbe83d?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
+<a href="https://debora-trevisolli.notion.site/Portf-lio-Profissional-Debora-Trevisolli-Roncardi-27979dfdf514807ea590c783eedbe83d" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
 </div>
 
 
