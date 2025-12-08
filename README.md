@@ -4,7 +4,7 @@ Profissional com formação em **Gestão de Recursos Humanos e cursando Gestão 
 
 Integro conhecimentos técnicos em **Power BI, SQL, Python, metodologias ágeis (Scrum e Kanban) e fundamentos de Cloud Computing (AWS, Google Cloud e Oracle)**, conectando processos, tecnologia e análise para apoiar decisões estratégicas.
 
-Atuei por **2 anos na Suécia**, desenvolvendo inglês intermediário, comunicação intercultural, adaptabilidade e resolução de problemas — competências essenciais para ambientes colaborativos, ágeis e orientados a resultados.
+Atuei por **2 anos na Suécia**, desenvolvendo comunicação intercultural, adaptabilidade e resolução de problemas.
 
    ### 🤖 Linguagens e Tecnologias
 
