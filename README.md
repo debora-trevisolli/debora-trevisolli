@@ -1,12 +1,14 @@
 ## Olá. Eu sou Débora Trevisolli! 
 
-Profissional com formação em Gestão de Recursos Humanos e em formação em Gestão da Tecnologia da Informação, com experiência em ambientes corporativos estruturados e consultivos. 
-Atuação em auditoria de processos, análise e validação de dados, compliance e indicadores de desempenho, apoiando decisões estratégicas e melhoria contínua.
+Profissional de Projetos e PMO, com atuação orientada por dados e tecnologia, apoiando a tomada de decisão estratégica, a melhoria de processos e a eficiência operacional por meio de indicadores, análises e governança em ambientes corporativos e consultivos.
 
-Possuo perfil analítico, organizado e orientado a dados, com conhecimentos em Power BI, SQL e Python, aplicados à análise de informações, acompanhamento de KPIs e suporte à gestão de projetos. 
+Possuo formação em **Gestão de Recursos Humanos** e em andamento em **Gestão da Tecnologia da Informação**, com experiência em auditoria de processos, análise e validação de dados, definição e acompanhamento de KPIs, compliance e suporte à gestão de projetos. 
+Atuo como elo entre áreas de negócio e tecnologia, transformando dados em informações relevantes para gestores.
+
+Tenho perfil analítico, organizado e orientado a resultados, com conhecimentos em Power BI, SQL e Python aplicados à análise de informações, monitoramento de indicadores e apoio à tomada de decisão. 
 Familiaridade com metodologias ágeis (Scrum e Kanban) e fundamentos de Cloud Computing (AWS, Google Cloud Platform e Oracle Cloud), com foco em transformação digital e eficiência operacional.
 
-Vivência internacional de 2 anos na Suécia, desenvolvendo comunicação intercultural, adaptabilidade, aprendizado rápido e resolução de problemas.
+Vivência internacional de 2 anos na Suécia, que contribuiu para o desenvolvimento de comunicação intercultural, adaptabilidade, aprendizado rápido e resolução de problemas em ambientes diversos.
 
 
 
