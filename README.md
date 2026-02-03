@@ -1,15 +1,12 @@
 ## Olá. Eu sou Débora Trevisolli! 
 
-Profissional de Projetos e PMO, com atuação orientada por dados e tecnologia, apoiando a tomada de decisão estratégica, a melhoria de processos e a eficiência operacional por meio de indicadores, análises e governança em ambientes corporativos e consultivos.
+Sou profissional com formação em Gestão de Recursos Humanos e em formação em Gestão da Tecnologia da Informação, com experiência sólida em rotinas administrativas, organização de processos, controle de informações e apoio operacional.
 
-Possuo formação em **Gestão de Recursos Humanos** e em andamento em **Gestão da Tecnologia da Informação**, com experiência em auditoria de processos, análise e validação de dados, definição e acompanhamento de KPIs, compliance e suporte à gestão de projetos. 
-Atuo como elo entre áreas de negócio e tecnologia, transformando dados em informações relevantes para gestores.
+Atuei em ambientes estruturados, apoiando cadastros, contratos, faturamento, atendimento a clientes e acompanhamento de demandas internas, sempre com foco em organização, cumprimento de prazos e confiabilidade dos dados. Tenho facilidade no uso de sistemas e ferramentas digitais.
 
-Tenho perfil analítico, organizado e orientado a resultados, com conhecimentos em Power BI, SQL e Python aplicados à análise de informações, monitoramento de indicadores e apoio à tomada de decisão. 
-Familiaridade com metodologias ágeis (Scrum e Kanban) e fundamentos de Cloud Computing (AWS, Google Cloud Platform e Oracle Cloud), com foco em transformação digital e eficiência operacional.
+Tenho perfil analítico, organizado e orientado a resultados, com conhecimento em ferramentas de apoio à análise de informações e indicadores, utilizados para melhorar controles, acompanhar processos e apoiar a tomada de decisão, além de familiaridade com metodologias ágeis (Scrum e Kanban) e fundamentos de Cloud Computing, com foco em eficiência operacional e melhoria contínua dos processos.
 
 Vivência internacional de 2 anos na Suécia, que contribuiu para o desenvolvimento de comunicação intercultural, adaptabilidade, aprendizado rápido e resolução de problemas em ambientes diversos.
-
 
 
    ### 🤖 Linguagens e Tecnologias
