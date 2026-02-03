@@ -2,7 +2,7 @@
 
 Sou profissional com formação em Gestão de Recursos Humanos e em formação em Gestão da Tecnologia da Informação, com experiência sólida em rotinas administrativas, organização de processos, controle de informações e apoio operacional.
 
-Atuei em ambientes estruturados, apoiando cadastros, contratos, faturamento, atendimento a clientes e acompanhamento de demandas internas, sempre com foco em organização, cumprimento de prazos e confiabilidade dos dados. Tenho facilidade no uso de sistemas e ferramentas digitais.
+Atuei em ambientes estruturados, apoiando cadastros, contratos, faturamento, atendimento a clientes e acompanhamento de demandas internas, sempre com foco em organização, cumprimento de prazos e confiabilidade dos dados. 
 
 Tenho perfil analítico, organizado e orientado a resultados, com conhecimento em ferramentas de apoio à análise de informações e indicadores, utilizados para melhorar controles, acompanhar processos e apoiar a tomada de decisão, além de familiaridade com metodologias ágeis (Scrum e Kanban) e fundamentos de Cloud Computing, com foco em eficiência operacional e melhoria contínua dos processos.
 
