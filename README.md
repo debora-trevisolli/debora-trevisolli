@@ -1,12 +1,16 @@
 ## Olá. Eu sou Débora Trevisolli! 
 
-Sou profissional com formação em Gestão de Recursos Humanos e em formação em Gestão da Tecnologia da Informação, com experiência sólida em rotinas administrativas, organização de processos, controle de informações e apoio operacional.
+Profissional com formação em Gestão de Recursos Humanos e cursando Gestão da Tecnologia da Informação, com experiência em suporte administrativo, organização de processos e controle de informações.
 
-Atuei em ambientes estruturados, apoiando cadastros, contratos, faturamento, atendimento a clientes e acompanhamento de demandas internas, sempre com foco em organização, cumprimento de prazos e confiabilidade dos dados. 
+Experiência no apoio a rotinas administrativas, incluindo gestão de cadastros, contratos, faturamento, organização documental e atendimento a demandas internas e clientes, assegurando padronização, prazos e confiabilidade dos dados.
 
-Tenho perfil analítico, organizado e orientado a resultados, com conhecimento em ferramentas de apoio à análise de informações e indicadores, utilizados para melhorar controles, acompanhar processos e apoiar a tomada de decisão, além de familiaridade com metodologias ágeis (Scrum e Kanban) e fundamentos de Cloud Computing, com foco em eficiência operacional e melhoria contínua dos processos.
+Tenho perfil analítico e estruturado, com foco em eficiência operacional, organização de fluxos de trabalho e melhoria contínua. Familiaridade com ferramentas de controle, acompanhamento de demandas e suporte a projetos.
 
-Vivência internacional de 2 anos na Suécia, que contribuiu para o desenvolvimento de comunicação intercultural, adaptabilidade, aprendizado rápido e resolução de problemas em ambientes diversos.
+Conhecimento em metodologias ágeis (Scrum e Kanban) e fundamentos de Cloud Computing, agregando visão moderna de processos e organização.
+
+Vivência internacional de 2 anos na Suécia, com desenvolvimento de adaptabilidade, comunicação intercultural e resolução de problemas.
+
+### 🛠Competências Técnicas:
 
 
    ### 🤖 Linguagens e Tecnologias
