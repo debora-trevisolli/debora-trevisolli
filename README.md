@@ -1,12 +1,12 @@
 ## Olá. Eu sou Débora Trevisolli! 
 
-Profissional com formação em Gestão de Recursos Humanos e cursando Gestão da Tecnologia da Informação, com experiência em suporte administrativo, organização de processos e controle de informações.
+Profissional com formação em Gestão de Recursos Humanos e graduação em andamento em Gestão da Tecnologia da Informação, com sólida experiência em controle administrativo, auditoria de processos e validação de dados no segmento hospitalar.
 
-Experiência no apoio a rotinas administrativas, incluindo gestão de cadastros, contratos, faturamento, organização documental e atendimento a demandas internas e clientes, assegurando padronização, prazos e confiabilidade dos dados.
+Atuei na análise de informações críticas, elaboração de relatórios gerenciais e acompanhamento de indicadores (KPIs), apoiando a gestão na tomada de decisão e garantindo conformidade operacional. 
 
-Tenho perfil analítico e estruturado, com foco em eficiência operacional, organização de fluxos de trabalho e melhoria contínua. Familiaridade com ferramentas de controle, acompanhamento de demandas e suporte a projetos.
+Desenvolvi interface entre áreas assistenciais, administrativas e financeiras, promovendo padronização de fluxos, integridade documental e cumprimento de prazos.
 
-Conhecimento em metodologias ágeis (Scrum e Kanban) e fundamentos de Cloud Computing, agregando visão moderna de processos e organização.
+Possuo perfil analítico, estruturado e orientado à melhoria contínua, com conhecimentos em Excel, Power BI e SQL aplicados ao controle administrativo e suporte estratégico.
 
 Vivência internacional de 2 anos na Suécia, com desenvolvimento de adaptabilidade, comunicação intercultural e resolução de problemas.
 
