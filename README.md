@@ -1,14 +1,12 @@
 ## Olá. Eu sou Débora Trevisolli! 
 
-Profissional com formação em Gestão de Recursos Humanos e MBA em Gestão de Projetos e Processos em andamento, com sólida experiência em rotinas administrativas, controle documental e validação de dados em ambientes com alto volume de informações.
-
-Atuação voltada à organização de processos internos, acompanhamento de prazos, elaboração de relatórios e suporte à gestão, com interface entre diferentes áreas. 
-
-Experiência na padronização de informações, controle de demandas e melhoria da eficiência operacional.
-
-Conhecimentos em Excel, Power BI e ERP Protheus, com aplicação prática na organização, análise e acompanhamento de dados e processos.
-
-Perfil organizado, analítico e orientado a processos, com foco em eficiência operacional e apoio à tomada de decisão.
+Atuo com foco em Projetos, Processos e suporte a PMO, com experiência prática na organização de demandas, acompanhamento de iniciativas e aplicação de metodologias ágeis como Scrum e Kanban.
+ 
+Tenho atuação na estruturação e controle de atividades, acompanhamento de prazos, organização de fluxos de trabalho e suporte à gestão, contribuindo para maior visibilidade, eficiência operacional e alinhamento entre áreas.
+ 
+Possuo experiência na padronização de processos, controle de indicadores e apoio à tomada de decisão, com uso de ferramentas como Power BI, Excel e ERP Protheus.
+ 
+Desenvolvi projetos práticos com aplicação de governança, gestão de riscos e acompanhamento de iniciativas, simulando ambiente corporativo e atuação de PMO.
 
 
 ### 🛠Competências Técnicas:
