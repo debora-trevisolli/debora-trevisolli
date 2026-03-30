@@ -1,12 +1,14 @@
 ## Olá. Eu sou Débora Trevisolli! 
 
-Atuo com foco em Projetos, Processos e suporte a PMO, com experiência prática na organização de demandas, acompanhamento de iniciativas e aplicação de metodologias ágeis como Scrum e Kanban.
+Profissional com experiência em rotinas administrativas, organização de processos e suporte operacional, atuando no controle de demandas, acompanhamento de atividades e apoio à gestão.
  
-Tenho atuação na estruturação e controle de atividades, acompanhamento de prazos, organização de fluxos de trabalho e suporte à gestão, contribuindo para maior visibilidade, eficiência operacional e alinhamento entre áreas.
+Possuo vivência com organização de fluxos de trabalho, controle de prazos, padronização de processos e suporte a equipes, contribuindo para maior eficiência operacional e alinhamento entre áreas.
  
-Possuo experiência na padronização de processos, controle de indicadores e apoio à tomada de decisão, com uso de ferramentas como Power BI, Excel e ERP Protheus.
+Também com foco em projetos e suporte a PMO, com conhecimento em metodologias ágeis como Scrum e Kanban, aplicadas na organização e acompanhamento de iniciativas.
  
-Desenvolvi projetos práticos com aplicação de governança, gestão de riscos e acompanhamento de iniciativas, simulando ambiente corporativo e atuação de PMO.
+Tenho experiência no controle de indicadores e apoio à tomada de decisão, com uso de ferramentas como Excel, Power BI e ERP Protheus.
+ 
+Desenvolvi projetos práticos envolvendo governança, gestão de riscos e acompanhamento de iniciativas, fortalecendo minha visão analítica e organizacional.
 
 
 ### 🛠Competências Técnicas:
